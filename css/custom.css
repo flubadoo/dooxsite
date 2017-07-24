@@ -4,9 +4,13 @@
 
 body {
 	background-image: url('../images/whiteback.jpg');
+	background-color: rgb(250, 250, 250);
+	background-attachment: fixed;
 	color: #00264d;
 	font-family: 'Arvo', sans-serif;
 }
+
+
 h1,
 h2 {
 	font-weight: bold;
