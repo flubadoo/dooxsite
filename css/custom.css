@@ -3,9 +3,9 @@
 }
 
 body {
-	background: #3E4649;
-	color: #f7f7f7;
-	font-family: 'Zilla+Slab', sans-serif;
+	background-image: url('../images/whiteback.jpg');
+	color: #00264d;
+	font-family: 'Arvo', sans-serif;
 }
 h1,
 h2 {
@@ -13,38 +13,38 @@ h2 {
 }
 p {
 	font-size: 16px;
-	color: #cdcdcd;
+	color: ##031424;
 }
 
 .jumbotron {
-	background: #8B0000;
-	color: white;
+	background: rgba(55, 55, 212, 0.2); 
+	color: #00264d;
 }
 .jumbotron p {
-	color: white;
+	color: #00264d;
 	font-size: 26px;
 }
 
 .btn-primary {
-	color: #fff;
+	color: #00264d;
 	background-color: transparent;
 	border-color: white;
 	margin-bottom: 5px;
 }
 .btn-primary:hover {
-	color: #8B0000;
+	color: rgba(55, 55, 212, 0.2);
 	background-color: white;
 	border-color: white;
 }
 
 .navbar-inverse {
-	background: #2E2F31;
+	background: rgba(55, 145, 174, 0.15);
 	border: 0;
 }
 .navbar-inverse .navbar-nav li a {
-	color: #f7f7f7;
+	color: #00264d;
 	font-size: 16px;
 }
 .navbar-inverse .navbar-nav li a:hover {
-	background: #8B0000;
+	background: rgba(55, 55, 212, 0.2);
 }
